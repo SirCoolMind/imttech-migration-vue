@@ -16,5 +16,14 @@
   "peerDependencies": {
     "vue": "^2.7.16",
     "vue-router": "^3.6.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirCoolMind/imttech-migration-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SirCoolMind/imttech-migration-vue/issues"
+  },
+  "homepage": "https://github.com/SirCoolMind/imttech-migration-vue#readme"
 }
